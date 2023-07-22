@@ -13,6 +13,8 @@
 ## IconTexture: Interface\AddOns\DBM-Core\textures\dbm_airhorn
 ## X-DBM-CountPack: 1
 ## X-DBM-CountPack-GlobalName: DBMCPUkrainianChild
+## X-Website: https://legacy.curseforge.com/wow/addons/deadly-boss-mods-dbm-ukrainian-countdown-pack
+## X-Curse-Project-ID: 889139
 
 CountLoadList.lua
 
