@@ -6,10 +6,17 @@ function DBMCPUkrainianChild()
 
 	local soundData = {
 		{
-			text = "Ukrainian",
+			text = "Ukrainian Female",
 			value = "ua_default",
 			path =
-			"Interface\\AddOns\\DBM-CPUkrainian\\Sound\\Default\\",
+			"Interface\\AddOns\\DBM-CPUkrainian\\Sound\\Female\\",
+			max = 5
+		},
+		{
+			text = "Ukrainian Male",
+			value = "ua_male",
+			path =
+			"Interface\\AddOns\\DBM-CPUkrainian\\Sound\\Male\\",
 			max = 5
 		},
 		{
