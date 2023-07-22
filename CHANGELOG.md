@@ -1,3 +1,6 @@
-#### 1
+#### version 2
 
-- Init
+- Optimize code for DBMCPUkrainianChild function.
+- Update sound folders for DBM-CPUkrainian addon
+- Add Verkhovna Rada of Ukraine Voting Bell Sound
+- Add Male Sound
