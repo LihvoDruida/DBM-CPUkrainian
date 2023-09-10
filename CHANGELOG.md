@@ -1,6 +1,7 @@
-#### version 2
+#### version 3
 
-- Optimize code for DBMCPUkrainianChild function.
-- Update sound folders for DBM-CPUkrainian addon
-- Add Verkhovna Rada of Ukraine Voting Bell Sound
-- Add Male Sound
+- Toc Bumps for retail
+- Classic toc bumps
+- Added new count songs
+- Fixed Verkhovna Rada of Ukraine Voting Bell Sound
+- Module subtype rewrite
