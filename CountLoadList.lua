@@ -46,6 +46,13 @@ function DBMCPUkrainianChild()
 			path =
 			"Interface\\AddOns\\DBM-CPUkrainian\\Sound\\VerhovhaRada\\",
 			max = 5
+		},
+		{
+			text = "Bass",
+			value = "ua_bass",
+			path =
+			"Interface\\AddOns\\DBM-CPUkrainian\\Sound\\Bass\\",
+			max = 5
 		}
 	}
 
